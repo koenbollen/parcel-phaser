@@ -1,0 +1,14 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html, body {
+  background: #333332;
+}
+#container {
+  max-width: 1280px;
+  max-height: 720px;
+  height: 100%;
+  margin: 0 auto;
+}
